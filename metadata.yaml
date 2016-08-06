@@ -1,0 +1,27 @@
+_repo: Love-at-Second-Sight_9851
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Leverson, Ada
+    alias: Beddington, Ada Esther
+    birthdate: 1862
+    deathdate: 1933
+    gutenberg_agent_id: '3137'
+    url: http://www.gutenberg.org/2009/agents/3137
+    wikipedia: http://en.wikipedia.org/wiki/Ada_Leverson
+description: ''
+gutenberg_issued: '2006-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '9851'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Man-woman relationships -- Fiction'
+- !lcc 'PR'
+- !lcsh 'London (England) -- Fiction'
+- GITenberg
+title: Love at Second Sight
+url: http://www.gutenberg.org/ebooks/9851
